@@ -1,4 +1,6 @@
 package com.lvsk;
 
 public class Student {
+    private int age;
+    private String name;
 }
